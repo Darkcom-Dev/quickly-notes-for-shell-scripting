@@ -7,24 +7,9 @@ Este es un comentario de multiple linea
 Veamos a ver si es cierto '
 
 cat << DELIM
-No aprendi nada de declare_statments, hay que investigarlo por internet
-La proxima linea es como crear una variable array "Una tupla"
+Functions in shell scripting
+use keyword "function" myFunc(){}
 DELIM
-
-
-# Arrays
-myArray=("foo", "var", "bar", "car")
-echo "${myArray[@]}" # "@" expone todos los indices
-echo "${myArray[1]}" # imprime el indice 1
-echo "${!myArray[@]}" # imprime los indices y no los valores
-echo "${#myArray[@]}" # imprime el conteo de los elementos (count o lenght)
-
-# ----- borrar elementos de un array
-unset myArray[2]
-echo "${myArray[@]}"
-# ----- Asigna un nuevo elemento
-myArray[2]="newBar"
-echo "${myArray[@]}"
 
 # ----- Funciones ------------------
 
