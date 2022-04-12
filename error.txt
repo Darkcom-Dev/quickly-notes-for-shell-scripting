@@ -1,0 +1,1 @@
+./Standard_output.sh: línea 23: lsl: orden no encontrada

@@ -1,0 +1,26 @@
+total 6052
+-rw-rw-r-- 1 darkcom darkcom 4387522 dic  4 18:45 apt_List.txt
+-rw-rw-r-- 1 darkcom darkcom   29472 abr  2 17:15 Bash-Scripting-master.zip
+drwxrwxr-x 2 darkcom darkcom    4096 mar 30 21:27 Capitulo_1
+drwxrwxr-x 2 darkcom darkcom    4096 mar 30 21:15 Capitulo_2
+-rw-rw-r-- 1 darkcom darkcom   14992 mar 15 22:10 Comandos del Bash.txt
+-rw-rw-r-- 1 darkcom darkcom     971 jul 27  2021 EjemploRust.rs
+-rw-rw-r-- 1 darkcom darkcom      58 abr 10 20:02 error.txt
+-rw-rw-r-- 1 darkcom darkcom 1255699 jul 27  2021 ficheros.tar.gz
+-rw-rw-r-- 1 darkcom darkcom     320 abr 10 19:31 file_redirect.txt
+-rw-rw-r-- 1 darkcom darkcom      68 jul 20  2021 HolaMundo.c
+-rwxrwxr-x 1 darkcom darkcom    8304 jul 20  2021 HolaMundoComp
+-rw-rw-r-- 1 darkcom darkcom     581 mar 17 14:02 Ideas-Automatizacion.txt
+-rw-rw-r-- 1 darkcom darkcom   24387 nov 12 20:08 Info_Hardware_Steam.txt
+-rw-rw-r-- 1 darkcom darkcom       0 abr 10 20:04 lista.txt
+-rw-rw-r-- 1 darkcom darkcom      58 abr 10 20:02 output.txt
+-rw-rw-r-- 1 darkcom darkcom     271 feb 27 14:58 Personalizaciones
+-rwxrw-r-- 1 darkcom darkcom    1418 mar 17 10:11 prueba.sh
+-rw-r--r-- 1 darkcom darkcom  291968 nov 26  2009 shell-commands.gif
+-rwxrwxr-x 1 darkcom darkcom    1522 ene 23 12:46 snake_bash.sh
+-rwxrwxr-x 1 darkcom darkcom     588 ene 23 12:17 snake.sh
+-rwxrwxr-x 1 darkcom darkcom    1210 abr 10 19:50 StandardIO.sh
+-rwxrwxr-x 1 darkcom darkcom     389 abr 10 20:04 Standard_output.sh
+-rwxrwxr-x 1 darkcom darkcom     229 abr 10 19:59 stdout_single.sh
+-rw-rw-r-- 1 darkcom darkcom    1557 abr  2 21:25 Variables_Predefinidas_Shell.md
+-rw-rw-r-- 1 darkcom darkcom  101661 jul 27  2021 vista-previa-ficheros.jpg
