@@ -1,4 +1,4 @@
-# Quicklyn notes for shell scripting
+# Quickly notes for shell scripting
 Notes and scripts for understanding shell script programming
 
 `I am forcing typing in english language for  enhance my flowing english mindset.`
